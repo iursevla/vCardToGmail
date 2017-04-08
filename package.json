@@ -1,0 +1,24 @@
+{
+  "name": "vcardtogmail",
+  "version": "1.0.0",
+  "description": "Convert vCard to Gmail.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iursevla/vCardToGmail.git"
+  },
+  "keywords": [
+    "vCard",
+    "Contacts",
+    "Gmail"
+  ],
+  "author": "Rui Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iursevla/vCardToGmail/issues"
+  },
+  "homepage": "https://github.com/iursevla/vCardToGmail#readme"
+}
